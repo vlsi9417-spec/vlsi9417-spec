@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 -->
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/vlsi9417-spec/vlsi9417-specblob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/vlsi9417-spec/vlsi9417-spec/blob/output/github-contribution-grid-snake.svg)
