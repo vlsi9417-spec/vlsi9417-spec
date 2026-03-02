@@ -2,7 +2,9 @@
 
 <!--
 **vlsi9417-spec/vlsi9417-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🐍 Contribution Snake
 
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/YOUR_USERNAME/vlsi9417-spec/blob/output/github-contribution-grid-snake.svg)
